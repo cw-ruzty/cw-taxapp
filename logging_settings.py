@@ -22,5 +22,5 @@ default_settings = {
         "xero_python": {"handlers": ["console"], "level": "DEBUG"},
         "urllib3": {"handlers": ["console"], "level": "DEBUG"},
     },
-    # "root": {"level": "DEBUG", "handlers": ["console"]},
+    "root": {"level": "DEBUG", "handlers": ["console"]},
 }
